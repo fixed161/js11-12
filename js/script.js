@@ -1,10 +1,10 @@
 $(function() {
 
-    var html = $("info").html();
+    var html = $("#info").html();
 
     var data =[ {
         name: "Иващенко Денис Константинович",
-        photo: "img/IMG_2377.JPG",
+        photo: "../img/myself.jpg",
         myInfo: "Студент Одесской Национальной Академии Связи им. Попова",
         whyFrontEnd: "Хочу учить фронтенд, потому что:",
         reason: {
